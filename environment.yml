@@ -1,0 +1,88 @@
+name: dataquest
+channels:
+- conda-forge
+- defaults
+dependencies:
+- backports=1.0=py36_1
+- backports.functools_lru_cache=1.4=py36_1
+- basemap=1.1.0=py36_3
+- basemap-data-hires=1.1.0=0
+- ca-certificates=2017.11.5=0
+- cycler=0.10.0=py36_0
+- freetype=2.8.1=vc14_0
+- geos=3.6.2=vc14_1
+- icu=58.2=vc14_0
+- jpeg=9b=vc14_2
+- libpng=1.6.34=vc14_0
+- matplotlib=2.1.1=py36_2
+- openssl=1.0.2n=vc14_0
+- pyparsing=2.2.0=py36_0
+- pyproj=1.9.5.1=py36_0
+- pyqt=5.6.0=py36_4
+- pyshp=1.2.12=py_0
+- python-dateutil=2.6.1=py36_0
+- pytz=2017.3=py_2
+- qt=5.6.2=vc14_1
+- sip=4.18=py36_1
+- six=1.11.0=py36_1
+- tornado=4.5.2=py36_0
+- zlib=1.2.11=vc14_0
+- bleach=2.1.1=py36h834942a_0
+- certifi=2017.11.5=py36hb8ac631_0
+- colorama=0.3.9=py36h029ae33_0
+- decorator=4.1.2=py36he63a57b_0
+- entrypoints=0.2.3=py36hfd66bb0_2
+- html5lib=1.0.1=py36h047fa9f_0
+- icc_rt=2017.0.4=h97af966_0
+- intel-openmp=2018.0.0=hd92c6cd_8
+- ipykernel=4.7.0=py36h2f9c1c0_0
+- ipython=6.2.1=py36h9cf0123_1
+- ipython_genutils=0.2.0=py36h3c5d0ee_0
+- ipywidgets=7.0.5=py36h6314756_0
+- jedi=0.11.0=py36_2
+- jinja2=2.10=py36h292fed1_0
+- jsonschema=2.6.0=py36h7636477_0
+- jupyter=1.0.0=py36h422fd7e_2
+- jupyter_client=5.1.0=py36h9902a9a_0
+- jupyter_console=5.2.0=py36h6d89b47_1
+- jupyter_core=4.4.0=py36h56e9d50_0
+- markupsafe=1.0=py36h0e26971_1
+- mistune=0.8.1=py36h007b88b_0
+- mkl=2018.0.1=h2108138_4
+- nbconvert=5.3.1=py36h8dc0fde_0
+- nbformat=4.4.0=py36h3a5bc1b_0
+- notebook=5.2.2=py36hc48260a_0
+- numpy=1.12.1=py36hf30b8aa_1
+- pandas=0.22.0=py36h6538335_0
+- pandoc=1.19.2.1=hb2460c7_1
+- pandocfilters=1.4.2=py36h3ef6317_1
+- parso=0.1.1=py36hae3edee_0
+- pickleshare=0.7.4=py36h9de030f_0
+- pip=9.0.1=py36h226ae91_4
+- prompt_toolkit=1.0.15=py36h60b8f86_0
+- pygments=2.2.0=py36hb010967_0
+- python=3.6.3=h3b118a2_4
+- pyzmq=16.0.3=py36he714bf5_0
+- qtconsole=4.3.1=py36h99a29a9_0
+- scikit-learn=0.19.1=py36h53aea1b_0
+- scipy=1.0.0=py36h1260518_0
+- setuptools=36.5.0=py36h65f9e6e_0
+- simplegeneric=0.8.1=py36heab741f_0
+- testpath=0.3.1=py36h2698cfe_0
+- traitlets=4.3.2=py36h096827d_0
+- vc=14=h2379b0c_2
+- vs2015_runtime=14.0.25123=hd4c4e62_2
+- wcwidth=0.1.7=py36h3d5aa90_0
+- webencodings=0.5.1=py36h67c50ae_1
+- wheel=0.30.0=py36h6c3ec14_1
+- widgetsnbextension=3.0.8=py36h933dd4f_0
+- wincertstore=0.2=py36h7fe50ca_0
+- pip:
+  - backports.functools-lru-cache==1.4
+  - ipython-genutils==0.2.0
+  - jupyter-client==5.1.0
+  - jupyter-console==5.2.0
+  - jupyter-core==4.4.0
+  - prompt-toolkit==1.0.15
+prefix: C:\ProgramData\Miniconda3\envs\dataquest
+
